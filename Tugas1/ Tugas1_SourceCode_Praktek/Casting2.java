@@ -1,6 +1,7 @@
 //Nama                  : Muh. Hamdan Syarif
 //NIM                   : 13020240240
-//Hari,Tanggal, Waktu   : Jum'at/ 2 April 2026/ 08.00public class Casting2 {
+//Hari,Tanggal, Waktu   : Jum'at/ 2 April 2026/ 08.00
+public class Casting2 {
     public static void main(String[] args) {
         int a = 8, b = 9;
         float d = 2.f, e = 3.2f;
