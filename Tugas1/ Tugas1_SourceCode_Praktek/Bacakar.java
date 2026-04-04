@@ -1,6 +1,7 @@
 //Nama                  : Muh. Hamdan Syarif
 //NIM                   : 13020240240
-//Hari,Tanggal, Waktu   : Jum'at/ 2 April 2026/ 08.00import java.io.BufferedReader;
+//Hari,Tanggal, Waktu   : Jum'at/ 2 April 2026/ 08.00
+import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Scanner;
